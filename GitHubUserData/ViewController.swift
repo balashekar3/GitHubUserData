@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        setLabelStatus(value: true)
+        setLabelStatus(value: true)
     }
 
     @IBAction func showBT(_ sender: UIButton) {
